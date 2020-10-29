@@ -1,2 +1,2 @@
 # wtc_work
-Problems worked on during WTC_ journey.
+Problems worked on during WeThinkCode_ journey.
